@@ -1,6 +1,6 @@
 {
   "name": "@kyy-cli/core",
-  "version": "1.0.14",
+  "version": "1.0.15",
   "description": "> TODO: description",
   "main": "index.js",
   "scripts": {
