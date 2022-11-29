@@ -30,5 +30,6 @@
   },
   "dependencies": {
     "@kyy-cli/utils": "^1.0.1"
-  }
+  },
+  "gitHead": "a63d1b34c6f13f0a6ce0fccdbbef70019dca617b"
 }
