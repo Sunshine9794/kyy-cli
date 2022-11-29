@@ -18,12 +18,12 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "https://registry.npm.taobao.org",
     "access": "public"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Sunshine9794/kyy-cli.git"
+    "url": "git+https://github.com/Sunshine9794/kyy-cli.git",
+    "directory": "packages/core"
   },
   "bugs": {
     "url": "https://github.com/Sunshine9794/kyy-cli/issues"
@@ -31,5 +31,5 @@
   "dependencies": {
     "@kyy-cli/utils": "^1.0.11"
   },
-  "gitHead": "ae864c0761b368eee06978c7c4709e37c69e6808"
+  "gitHead": "9f20cab1113701ccfcf444d97b4f4ff97a529c71"
 }
