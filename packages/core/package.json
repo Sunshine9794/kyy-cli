@@ -8,7 +8,7 @@
   },
   "keywords": [],
   "author": "Waste <820016771@qq.com>",
-  "license": "ISC",
+  "license": "MIT",
   "homepage": "https://github.com/Sunshine9794/kyy-cli#readme",
   "directories": {
     "lib": "lib",
@@ -31,5 +31,5 @@
   "dependencies": {
     "@kyy-cli/utils": "^1.0.7"
   },
-  "gitHead": "c12d1d7fc5ce9aedb0ef7426e71c1ec5363a9a9a"
+  "gitHead": "ae864c0761b368eee06978c7c4709e37c69e6808"
 }
