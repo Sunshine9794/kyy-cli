@@ -1,6 +1,6 @@
 {
   "name": "@kyy-cli/core",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "> TODO: description",
   "main": "index.js",
   "scripts": {
@@ -29,7 +29,7 @@
     "url": "https://github.com/Sunshine9794/kyy-cli/issues"
   },
   "dependencies": {
-    "@kyy-cli/utils": "^1.0.7"
+    "@kyy-cli/utils": "^1.0.11"
   },
   "gitHead": "ae864c0761b368eee06978c7c4709e37c69e6808"
 }
